@@ -1,0 +1,15 @@
+C:\Users\douglas.cavalcante\source\repos\SlnAsyncWait\AsyncWait\obj\Debug\net6.0\AsyncWait.csproj.AssemblyReference.cache
+C:\Users\douglas.cavalcante\source\repos\SlnAsyncWait\AsyncWait\obj\Debug\net6.0\AsyncWait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\douglas.cavalcante\source\repos\SlnAsyncWait\AsyncWait\obj\Debug\net6.0\AsyncWait.AssemblyInfoInputs.cache
+C:\Users\douglas.cavalcante\source\repos\SlnAsyncWait\AsyncWait\obj\Debug\net6.0\AsyncWait.AssemblyInfo.cs
+C:\Users\douglas.cavalcante\source\repos\SlnAsyncWait\AsyncWait\obj\Debug\net6.0\AsyncWait.csproj.CoreCompileInputs.cache
+C:\Users\douglas.cavalcante\source\repos\SlnAsyncWait\AsyncWait\bin\Debug\net6.0\AsyncWait.exe
+C:\Users\douglas.cavalcante\source\repos\SlnAsyncWait\AsyncWait\bin\Debug\net6.0\AsyncWait.deps.json
+C:\Users\douglas.cavalcante\source\repos\SlnAsyncWait\AsyncWait\bin\Debug\net6.0\AsyncWait.runtimeconfig.json
+C:\Users\douglas.cavalcante\source\repos\SlnAsyncWait\AsyncWait\bin\Debug\net6.0\AsyncWait.dll
+C:\Users\douglas.cavalcante\source\repos\SlnAsyncWait\AsyncWait\bin\Debug\net6.0\AsyncWait.pdb
+C:\Users\douglas.cavalcante\source\repos\SlnAsyncWait\AsyncWait\obj\Debug\net6.0\AsyncWait.dll
+C:\Users\douglas.cavalcante\source\repos\SlnAsyncWait\AsyncWait\obj\Debug\net6.0\refint\AsyncWait.dll
+C:\Users\douglas.cavalcante\source\repos\SlnAsyncWait\AsyncWait\obj\Debug\net6.0\AsyncWait.pdb
+C:\Users\douglas.cavalcante\source\repos\SlnAsyncWait\AsyncWait\obj\Debug\net6.0\AsyncWait.genruntimeconfig.cache
+C:\Users\douglas.cavalcante\source\repos\SlnAsyncWait\AsyncWait\obj\Debug\net6.0\ref\AsyncWait.dll
